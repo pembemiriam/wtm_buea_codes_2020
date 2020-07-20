@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/resistor-color-duo.iml" filepath="$PROJECT_DIR$/resistor-color-duo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resistor-color-duo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/resistor-color-duo_main.iml" group="resistor-color-duo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resistor-color-duo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/resistor-color-duo_test.iml" group="resistor-color-duo" />
+    </modules>
+  </component>
+</project>
